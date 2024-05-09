@@ -1,0 +1,17 @@
+As referências bibliográficas seguindo a norma ABNT (Associação Brasileira de Normas Técnicas) devem incluir informações essenciais sobre a obra citada, como autor(es), título, edição, local de publicação, editora e ano de publicação.
+
+Livro: SOBRENOME, Nome do Autor. Título do Livro: Subtítulo (se houver). Edição (se não for a primeira). Local de Publicação: Editora, Ano de Publicação.
+
+Site: NOME DO SITE. Título da Página. Disponível em: . Acesso em: Dia Mês Ano.
+
+Exemplos:
+
+Livros: 
+
+CUNHA, Celso. Gramática da Língua Portuguesa. Rio de Janeiro: Editora Nova Fronteira, 2018.
+ROSENBERG, Marc J. Python Crash Course. 2. ed. San Francisco: No Starch Press, 2019.
+
+Sites: 
+
+Wikipedia. Inteligência artificial. Disponível em: https://pt.wikipedia.org/wiki/Inteligência_artificial. Acesso em: 2 maio 2024.
+BBC Brasil. Pandemia de COVID-19. Disponível em: https://www.bbc.com/portuguese/temas/coronavirus. Acesso em: 2 maio 2024.
