@@ -1,0 +1,83 @@
+----------------------------------------------------------------------------------------
+
+As normas da ABNT para formatação de trabalhos geralmente incluem: 
+
+----------------------------------------------------------------------------------------
+
+1. FORMATAÇÃO
+
+* Fonte: Arial
+
+* Tamanho da fonte: 12
+
+* Margens:
+- superior e esquerda: 3 cm
+- inferior e direita: 2 cm
+
+* Parágrafo: 1,0cm a partir da margem esquerda de 3 cm.
+
+* Espaçamento entre linhas: 1,5cm
+
+* Espaçamento entre Parágrafos: 02 enter; dar 01 enter e escrever no 2º enter
+
+* Alinhamento justificado
+
+* Títulos das seções em negrito, com numeração opcional
+
+* Citações e referências seguindo padrões específicos
+
+* Numeração de páginas a partir da introdução
+
+* Título e subtítulo na página de capa
+
+---------------------------------------------------------------------------------------
+
+Parte Externa:
+
+*Capa (obrigatório)- Fonte: Arial / Tamanho da fonte: 12
+
+*Lombada (obrigatório)
+
+---------------------------------------------------------------------------------------
+
+Elementos Pré-textuais:
+
+- Folha de rosto (obrigatório)
+
+- Sumário (obrigatório)
+
+- Ficha catalográfica (opcional)
+
+- Folha de aprovação (opcional)
+
+- Dedicatória (opcional)
+
+- Agradecimentos (opcional)
+
+- Epígrafe (opcional)
+
+- Resumo em língua estrangeira (inglês) (opcional)
+
+- Lista de ilustrações (opcional)
+
+- Lista de tabelas (opcional)
+
+- Lista de abreviaturas e siglas (opcional)
+
+- Lista de símbolos (opcional)
+
+-----------------------------------------------------------------------------------------
+
+Elementos Pós-textuais:
+
+- Referências (obrigatório)
+
+- Glossário (opcional)
+
+- Apêndices (opcional)
+
+- Anexos (opcional)
+
+- Índice (opcional)
+
+-------------------------------------------------------------------------------------------
